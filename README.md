@@ -55,4 +55,4 @@ I focus on building scalable systems, maintaining code consistency, and—most i
 
 ### 📫 Get in touch
 * 📧 **Email:** [z.kontoulis@gmail.com](mailto:z.kontoulis@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/zacharias-kontoulis-6b024396/)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/zacharias-kontoulis/](https://www.linkedin.com/in/zacharias-kontoulis-6b024396/)
